@@ -1,0 +1,71 @@
+{
+  "profile": {
+    "name": "Injilio Oroh",
+    "title": "Visual Effect Artist, Motion Graphic Designer, Video Editor",
+    "bio": "Creative and detail-oriented Multimedia Designer & Visual Artist with expertise in visual effects, motion graphics, video editing, and cinematic color grading. Skilled in producing advertisements, event trailers, branding visuals, and digital media content.",
+    "location": "Manado, Sulawesi Utara, Indonesia",
+    "email": "orohinjilio588@gmail.com",
+    "phone": "+62 895-3973-22363",
+    "dateOfBirth": "2005",
+    "socials": {
+      "github": "https://github.com/injiliooroh18",
+      "instagram": "https://instagram.com/liebraris",
+      "portfolio": "https://instagram.com/injiliooroh18"
+    }
+  },
+  "education": {
+    "institution": "Universitas Klabat (UNKLAB)",
+    "degree": "Computer Science (Informatics)",
+    "expectedGraduation": "2027"
+  },
+  "experience": [
+    {
+      "id": 1,
+      "role": "Multimedia Committee",
+      "company": "Proxo Coris International Competition Event",
+      "range": "2025",
+      "desc": "Produced professional advertisement video for vendor, designed event lanyard, created registration bumper video with logo animation intro."
+    },
+    {
+      "id": 2,
+      "role": "Multimedia Committee",
+      "company": "Filkom Day 2025",
+      "range": "2025",
+      "desc": "Designed and edited official Filkom Day trailer video with visual effects (VFX) and motion graphics."
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Event Advertisement Video",
+      "summary": "Professional advertisement for Proxo Coris vendor with concept development and final delivery.",
+      "link": "https://instagram.com/liebraris"
+    },
+    {
+      "id": 2,
+      "title": "Filkom Day Trailer",
+      "summary": "Official event trailer featuring VFX and motion graphics for university event.",
+      "link": "https://instagram.com/liebraris"
+    },
+    {
+      "id": 3,
+      "title": "Event Branding Design",
+      "summary": "Complete branding materials including lanyard design and logo animations.",
+      "link": "https://instagram.com/injiliooroh18"
+    }
+  ],
+  "skills": [
+    "Adobe After Effects",
+    "DaVinci Resolve",
+    "CapCut",
+    "Adobe Lightroom",
+    "Canva",
+    "Video Editing & VFX",
+    "Cinematic Videography",
+    "Color Grading",
+    "Drawing & Sketching",
+    "Advertisement Production",
+    "Logo Animation",
+    "Event Branding"
+  ]
+}
